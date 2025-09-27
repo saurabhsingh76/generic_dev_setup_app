@@ -1,0 +1,7 @@
+**/target/
+**/secret/
+.classpath
+.idea
+.project
+.settings
+.vscode
